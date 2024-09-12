@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1d884a76-43c6-4f6c-98b0-5cdce4ce5dc5" alt="Human-Robot Handshake" width="0" height="300"/>
+  <img  align="left" src="https://github.com/user-attachments/assets/96caf401-0233-4afe-9a9e-251094ac58a3" height="300"  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Basawaraj-S</h1>
