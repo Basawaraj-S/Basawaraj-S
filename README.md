@@ -1,3 +1,6 @@
+<p align="center">
+  <img src=""C:\Users\HP\Downloads\robot-handshake-human-background-futuristic-digital-age.jpg"" alt="Human-Robot Handshake" width="400"/>
+</p>
 <h1 align="center">Hi 👋, I'm Basawaraj-S</h1>
 <h3 align="center">A passionate AI Engineer(Studying) from India</h3>
 
