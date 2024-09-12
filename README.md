@@ -1,6 +1,6 @@
 <p align="center">
-  <img  align="left" src="https://github.com/user-attachments/assets/96caf401-0233-4afe-9a9e-251094ac58a3" height="300"  />
-</p>
+  <img  align="left" src="https://github.com/user-attachments/assets/c7025ac5-9c5f-42e6-bcd3-3f3b4e155102" hieght="/p>
+<p
 
 <h1 align="center">Hi 👋, I'm Basawaraj-S</h1>
 <h3 align="center">A passionate AI Engineer(studying) </h3>
