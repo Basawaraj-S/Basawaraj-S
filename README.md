@@ -1,5 +1,5 @@
 <h6 align="center">
-  <img align ="center"src="https://github.com/user-attachments/assets/c7025ac5-9c5f-42e6-bcd3-3f3b4e155102" alt="Human-Robot Handshake" height="250"/>
+ <img align="center" src="https://github.com/user-attachments/assets/90784175-3d49-4f6d-bd94-92c1c95f1674"alt="Human-Robot Handshake" height="250" style="border: 2px solid black; border-radius: 10px;" />
 </h6>
 
 <h1 align="center">Hi 👋, I'm Basawaraj-S</h1>
