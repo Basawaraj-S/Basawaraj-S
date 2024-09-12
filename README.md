@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""C:\Users\HP\Downloads\robot-handshake-human-background-futuristic-digital-age.jpg"" alt="Human-Robot Handshake" width="400"/>
+  <img src=""https://img.freepik.com/free-photo/robot-handshake-human-background-futuristic-digital-age_53876-129770.jpg?t=st=1726169238~exp=1726172838~hmac=6feabd8b801f95862b7b9194f7424c9df080687bd6379d101b54732053727759&w=826"" alt="Human-Robot Handshake" width="400"/>
 </p>
 <h1 align="center">Hi 👋, I'm Basawaraj-S</h1>
 <h3 align="center">A passionate AI Engineer(Studying) from India</h3>
