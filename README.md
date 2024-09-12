@@ -1,6 +1,6 @@
-<p align="left">
-  <img align ="left"src="https://github.com/user-attachments/assets/c7025ac5-9c5f-42e6-bcd3-3f3b4e155102" alt="Human-Robot Handshake" height="250"/>
-</p>
+<h6 align="center">
+  <img align ="center"src="https://github.com/user-attachments/assets/c7025ac5-9c5f-42e6-bcd3-3f3b4e155102" alt="Human-Robot Handshake" height="250"/>
+</h6>
 
 <h1 align="center">Hi 👋, I'm Basawaraj-S</h1>
 <h3 align="center">A passionate AI Engineer (studying)</h3>
